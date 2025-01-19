@@ -39,4 +39,5 @@ To launch an install
 
 - Improvement of soft selection
 
+- Add the possibility to create a file with all the soft wanted and use it to install all
 
